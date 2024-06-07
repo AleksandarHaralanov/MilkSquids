@@ -1,4 +1,5 @@
-name: MilkSquids
-version: 1.0
-author: Beezle
 main: me.beezle.milksquids.MilkSquids
+version: 1.0
+name: MilkSquids
+authors: [Beezle]
+description: You can now milk squids with an empty bucket in hand.
