@@ -7,11 +7,11 @@ public class MilkSquids extends JavaPlugin {
     @Override
     public void onEnable() {
         getServer().getPluginManager().registerEvents(new EntityHandler(), this);
-        System.out.print("[MilkSquids] Enabled.");
+        System.out.print("[MilkSquids v1.0.0] Enabled.");
     }
 
     @Override
     public void onDisable() {
-        System.out.print("[MilkSquids] Disabled.");
+        System.out.print("[MilkSquids v1.0.0] Disabled.");
     }
 }
