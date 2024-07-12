@@ -1,5 +1,11 @@
-main: me.beezle.milksquids.MilkSquids
-version: 1.0.0
+main: com.haralanov.milksquids.MilkSquids
+version: 1.1.0
 name: MilkSquids
-authors: [Beezle]
-description: You can now milk squids with an empty bucket in hand.
+author: Beezle
+website: github.com/AleksandarHaralanov/MilkSquids
+description: Players can milk squids just like in version b1.3_01.
+
+commands:
+  milksquids:
+    description: See info about the MilkSquids plugin.
+    usage: /<command>
